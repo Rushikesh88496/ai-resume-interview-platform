@@ -1,5 +1,7 @@
 # ▲ Apex Hire — AI Talent Intelligence Platform
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-resume-interview-platform-b2evnrryqmbuyrz7fz3snk.streamlit.app/)
+
 An AI-powered recruitment intelligence platform built with Streamlit. It screens resumes, matches candidates to job descriptions, conducts AI-driven technical interviews, evaluates answers, and provides actionable analytics — all from a single dashboard.
 
 ## Features
